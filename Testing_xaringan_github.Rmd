@@ -1,0 +1,23 @@
+---
+title: "Testing xaringan + GitHub"
+subtitle: "oh gosh"
+author: "Sarah McClymont"
+date: "2017/11/22"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Slide 1 
+
+This is slide 1
+
+---
+
+# Slide 2 
+
+And this is the second slide 
